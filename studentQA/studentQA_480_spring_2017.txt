@@ -78,6 +78,105 @@ What are examples of the influential factors of international trade?
 Inflation, national income, government policies, and exchange rates.
 What is intracompany trade?
 Intracompany trade is when companies purchase products that are produced by their subsidies.
+Q: What is an arbitrage?
+A: A zero-risk, zero-net investment strategy that still generates profit.
+Q: What is an agency problem?
+A: Conflicts of interest among stockholders, bondholders, and managers.
+Q: What is the ask price?
+A: The price at which a dealer will sell a security.
+Q: What does “at the money” mean?
+A: The exercise price and asset price of an option are equal.a
+Q: What is the bid price?
+A: The price at which a dealer is willing to purchase a security.
+Q: What does beta measure?
+A: The systematic risk of a security.
+Q: Comparative advantage suggests an increase in?
+A: Worldwide production
+Q:What is a bond?
+A: A security issued by a borrower that obligates he issuer to make specified payments to the holder over a specified period.
+Q: What type of investor is bullish?
+A: optimistic
+Q: What type of investor is bearish?
+A: pessimistic 
+Q: What is a call option?
+A: The right to buy an asset at a specified exercise price on or before a specified expiration date.
+Q: What is a callable bond?
+A: A bond that the issuer may repurchase at a given price in some specified time period.
+Q: What is a collar option?
+A: Brackets the value of a portfolio between two bounds.
+Q: What is collateral?
+A: A specified asset pledged against possible default on a bond. 
+Q: What is convexity?
+A: The curvature of the price-yield relationship of a bond. 
+Q: What is a bond’s current yield?
+A: The annual coupon payment divided by its price. 
+Q: What are discount bonds?
+A: Bonds that are selling below par value.
+Q: What is diversification?
+A: Spreading a portfolio over many investments to avoid excessive exposure to any one source of risk.
+Q: What does the efficient market hypothesis predict?
+A: That the prices of securities fully reflect all available information.
+Q: What is equity?
+A: Ownership in a firm.
+Q: What is the exchange rate?
+A: Price of a unit of one country’s currency in terms of another country’s currency.
+Q: What is the exercise price of a bond?
+A: Price set for calling an asset or putting an asset.
+Q: What is expected return?
+A: The probability-weighted average of the possible outcomes.
+Q: What does it mean to hedge?
+A: Protect a firm from exchange rate fluctuations.
+Q: When two or more firms share responsibilities and earnings?
+A: Joint venture.
+Q: What is an indenture?
+A: A document defining the contract between the bond issuer and the bondholder.
+Q: What is inflation?
+A: The rate at which the general level of prices for goods and services is rising.
+Q: What is insider trading?
+A: Trading by officers, managers, etc. who hold private information allowing them to benefit from buying or selling the stock.
+Q: What is the intrinsic value of a company?
+A: The present value of a firm’s expected future net cash flows discounted by the required rate of return.
+Q: What is hedging?
+A: Investing in an asset to reduce the overall risk of a portfolio.
+Q: What is inflation?
+A: The rate at which the general level of prices for goods and services is rising.
+Q: What is the initial public offering for a company?
+A: Stock that is issued to the public for the first time by a formerly privately owned company.
+Q: What is a tariff?
+A: A tax imposed by a government on imported goods.
+Q: What is a margin?
+A: It describes securities purchased with money borrowed from a broker.
+Q: Does a writer buy or sell an option?
+A: Sell.
+Q: What is the par value of a bond?
+A: The same amount as the face value.
+Q: What is preferred stock?
+A: Shareholders have a fixed stream of dividends, and no voting rights.
+Q: What is a primary market?
+A: Where new issues of securities that are offered to the public.
+Q: What are premium bonds?
+A: Bonds that are selling above par.
+Q: What is a protective put?
+A: Purchasing of stock combined with a put option that guarantees minimum proceeds equal to the put’s exercise price.
+Q: When was the World Bank established?
+A: 1944.
+Q: What is the premium of an option?
+A: The purchase price of the option.
+Q: What is a covered call?
+A: Purchase of a share of stock with a simultaneous sale of a call on that stock.
+Q: What is a Eurodollar?
+A: describes US Dollar deposits placed in Europe banks. 
+Q: IMF refers to what agency?
+A: International Monetary Fund
+Q: Exchange of goods without currency?
+A: Barter
+Q: What does appreciation mean?
+A: Increase in the value of currency
+Q: What is a hedge ratio commonly known as?
+A: Delta
+
+
+
 
 
 
